@@ -4,7 +4,7 @@
 I'm a 4th-year Honours BSc Computer Science student at the University of Ottawa, in addition, I have over 2 years of experience working as a Developer both part-time and full-time
 
 
-## 💼 Connect with me!
+## 💬 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafeyisayo-adesanya/)
 
