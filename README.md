@@ -8,7 +8,7 @@ I'm a 4th-year Honours BSc Computer Science student at the University of Ottawa,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafeyisayo-adesanya/)
 
-📄 A list of my experience and skills can be found on my [Resume](https://docs.google.com/document/d/1xrRfKvI6AkxEydcP9MrifprCAPuCOw59/edit?usp=sharing&ouid=100145539898937054081&rtpof=true&sd=true)
+📄 A list of my experience and skills can be found on my [Resume](https://drive.google.com/file/d/1ERVRNbxLNLLR5I0H5g2R9-6QdN6YRHCh/view?usp=sharing)
 
 ## 💼 Skills
 Languages
