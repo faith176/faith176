@@ -1,7 +1,7 @@
 ### Hi there, I'm Feyi 👋
 
 
-I'm a 4th-year Honours BSc Computer Science student at the University of Ottawa, in addition, I have over 2 years of experience working as a Developer both part-time and full-time
+I'm a 4th-year Honours BSc Computer Science student at the University of Ottawa, in addition, I have over three years of experience working as a Developer part-time and full-time
 
 
 ## 💬 Connect with me!
