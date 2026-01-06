@@ -1,10 +1,14 @@
 ### Hi there, I'm Feyi 👋
 
-I have completed both an MSc and Honours BSc in Computer Science, with over two years of experience in software development, data engineering, and analytics, working across full-stack systems, cloud pipelines, and data-driven applications.
+
+I'm a 4th-year Honours BSc Computer Science student at the University of Ottawa, in addition, I have over 2 years of experience working as a Developer both part-time and full-time
+
 
 ## 💬 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwafeyisayo-adesanya/)
+
+📄 A list of my experience and skills can be found on my [Resume](https://docs.google.com/document/d/1xrRfKvI6AkxEydcP9MrifprCAPuCOw59/edit?usp=sharing&ouid=100145539898937054081&rtpof=true&sd=true)
 
 ## 💼 Skills
 
